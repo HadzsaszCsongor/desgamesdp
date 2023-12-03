@@ -1,0 +1,1 @@
+execute as @a[nbt={SelectedItem:{tag:{display:{Name:'{"text":"shoot1"}'}}}}] run function arrow_game:target1

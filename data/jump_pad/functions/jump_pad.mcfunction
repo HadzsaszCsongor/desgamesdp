@@ -1,0 +1,1 @@
+execute as @a at @s positioned ~ ~ ~ if block ~ ~-1 ~ minecraft:slime_block run function jump_pad:jump
