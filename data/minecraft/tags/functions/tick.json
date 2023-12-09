@@ -1,6 +1,7 @@
 {
 "values": [
 "jump_pad:jump_pad",
-"craft_game:checkcake"
+"craft_game:checkcake",
+"kill_stick:update_kill_stick"
 ]
 }

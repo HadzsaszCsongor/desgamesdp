@@ -1,0 +1,1 @@
+execute as @a[scores={killStick=1},nbt={SelectedItem:{tag:{customTag:1}}}] run function kill_stick:kill_player
