@@ -1,1 +1,1 @@
-execute if block 100 100 100 minecraft:cake run execute positioned 100 100 100 run function craft_game:advanceplayer
+execute if block -20 148 -139 minecraft:cake run execute positioned 100 100 100 run function craft_game:advanceplayer
